@@ -1,0 +1,16 @@
+{
+    "name": "uuu9/signature",
+    "description": "API Sign Server & Middleware for Lumen",
+    "authors": [
+        {
+            "name": "zhw",
+            "email": "980334125@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+	      "Uuu9\\Signature\\": "src/"
+		}
+    },
+    "require": {}
+}

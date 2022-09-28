@@ -1,6 +1,6 @@
 <?php
 
-namespace Vpgame\Signature\Services;
+namespace Uuu9\Signature\Services;
 
 use App\Exceptions\NotImplementedHttpException;
 

@@ -1,13 +1,13 @@
 <?php
 
-namespace Vpgame\Signature\Services;
+namespace Uuu9\Signature\Services;
 
 use App\Exceptions\InternalServerErrorException;
 use App\Exceptions\NotImplementedHttpException;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Log;
-use Vpgame\Signature\Services\RollingCurl\RollingCurl;
-use Vpgame\Signature\Services\RollingCurl\RollingCurlRequest;
+use Uuu9\Signature\Services\RollingCurl\RollingCurl;
+use Uuu9\Signature\Services\RollingCurl\RollingCurlRequest;
 
 class ApiService
 {

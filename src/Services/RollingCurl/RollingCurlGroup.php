@@ -1,6 +1,6 @@
 <?php
 
-namespace U9\Signature\Services\RollingCurl;
+namespace Uuu9\Signature\Services\RollingCurl;
 
 class RollingCurlGroup
 {

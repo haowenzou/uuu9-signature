@@ -1,12 +1,12 @@
 <?php
 
-namespace U9\Signature\Middleware;
+namespace Uuu9\Signature\Middleware;
 
 use App\Exceptions\UnauthorizedHttpException;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\App;
 use Closure;
-use U9\Signature\Services\SignService;
+use Uuu9\Signature\Services\SignService;
 use Illuminate\Support\Facades\Log;
 
 /**

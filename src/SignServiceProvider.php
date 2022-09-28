@@ -1,9 +1,9 @@
 <?php
 
-namespace Vpgame\Signature;
+namespace Uuu9\Signature;
 
 use Illuminate\Support\ServiceProvider;
-use Vpgame\Signature\Middleware\Authenticate;
+use Uuu9\Signature\Middleware\Authenticate;
 
 class SignServiceProvider extends ServiceProvider
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace U9\Signature\Services;
+namespace Uuu9\Signature\Services;
 
 class SignService
 {

@@ -8,7 +8,7 @@
 add:
 
 ```
-$app->register(U9\Signature\SignServiceProvider::class);
+$app->register(Uuu9\Signature\SignServiceProvider::class);
 ```
 
 copy config file `api_sign.php` to system config path
